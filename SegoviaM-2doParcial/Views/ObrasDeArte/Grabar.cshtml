@@ -1,0 +1,21 @@
+﻿@model BD.ModeloEF.ObraDeArte;
+
+@{
+    ViewData["Title"] = "Agregar Obra de Arte";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Agergar Obra de Arte</h1>
+    
+    <form action="/ObrasDeArte/grabar" method="post">
+        <div>
+            Nombre: <input type="text" name="Nombre" value="" />
+        </div>
+        <div>
+            Año de creacion: <input type="number" name="AnioCreacion" value="" />
+        </div>
+        <div>
+            <input type="submit" name="Grabar" value="Grabar" />
+        </div>
+    </form>
+</div>

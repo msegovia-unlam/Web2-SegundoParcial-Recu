@@ -1,0 +1,24 @@
+﻿@model List<BD.ModeloEF.ObraDeArte>
+@{
+    ViewData["Title"] = "Lista de Obras de Arte";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Obras de Arte</h1>
+   
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Año de Creacion</th>
+            
+        </tr>
+    @foreach (var obra in Model)
+    {
+        <tr>
+            <td>@obra.Nombre</td>
+            <td>@obra.AnioCreacion</td>
+            
+        </tr>
+    }
+    </table>
+</div>

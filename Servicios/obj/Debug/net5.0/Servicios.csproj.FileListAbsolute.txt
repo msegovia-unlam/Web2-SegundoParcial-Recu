@@ -1,0 +1,15 @@
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\bin\Debug\net5.0\Servicios.deps.json
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\bin\Debug\net5.0\Servicios.dll
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\bin\Debug\net5.0\Servicios.pdb
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\bin\Debug\net5.0\BD.dll
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\bin\Debug\net5.0\BD.pdb
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\obj\Debug\net5.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\obj\Debug\net5.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfo.cs
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\obj\Debug\net5.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\obj\Debug\net5.0\Servicios.csproj.CopyComplete
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\obj\Debug\net5.0\Servicios.dll
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\obj\Debug\net5.0\refint\Servicios.dll
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\obj\Debug\net5.0\Servicios.pdb
+C:\Users\Martin\source\repos\SegoviaM-2doParcial\Servicios\obj\Debug\net5.0\ref\Servicios.dll
